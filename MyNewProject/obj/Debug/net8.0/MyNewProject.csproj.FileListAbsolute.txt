@@ -1,0 +1,14 @@
+C:\Users\yogac\Downloads\KTI pak Erick\MyNewProject\bin\Debug\net8.0\MyNewProject.exe
+C:\Users\yogac\Downloads\KTI pak Erick\MyNewProject\bin\Debug\net8.0\MyNewProject.deps.json
+C:\Users\yogac\Downloads\KTI pak Erick\MyNewProject\bin\Debug\net8.0\MyNewProject.runtimeconfig.json
+C:\Users\yogac\Downloads\KTI pak Erick\MyNewProject\bin\Debug\net8.0\MyNewProject.dll
+C:\Users\yogac\Downloads\KTI pak Erick\MyNewProject\bin\Debug\net8.0\MyNewProject.pdb
+C:\Users\yogac\Downloads\KTI pak Erick\MyNewProject\obj\Debug\net8.0\MyNewProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yogac\Downloads\KTI pak Erick\MyNewProject\obj\Debug\net8.0\MyNewProject.AssemblyInfoInputs.cache
+C:\Users\yogac\Downloads\KTI pak Erick\MyNewProject\obj\Debug\net8.0\MyNewProject.AssemblyInfo.cs
+C:\Users\yogac\Downloads\KTI pak Erick\MyNewProject\obj\Debug\net8.0\MyNewProject.csproj.CoreCompileInputs.cache
+C:\Users\yogac\Downloads\KTI pak Erick\MyNewProject\obj\Debug\net8.0\MyNewProject.dll
+C:\Users\yogac\Downloads\KTI pak Erick\MyNewProject\obj\Debug\net8.0\refint\MyNewProject.dll
+C:\Users\yogac\Downloads\KTI pak Erick\MyNewProject\obj\Debug\net8.0\MyNewProject.pdb
+C:\Users\yogac\Downloads\KTI pak Erick\MyNewProject\obj\Debug\net8.0\MyNewProject.genruntimeconfig.cache
+C:\Users\yogac\Downloads\KTI pak Erick\MyNewProject\obj\Debug\net8.0\ref\MyNewProject.dll
